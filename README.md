@@ -7,7 +7,6 @@ I am a Computer Science student (Bachelor of Science) currently in my fifth seme
 Currently, I am focusing on my Computer Science studies and applying my knowledge through personal projects. All my projects are available on GitHub:
 * 📈 **GrowthGaze:** I developed an investment simulation platform for start-ups. The dashboard displays company data from a JSON file and features interactive charts for KPIs such as revenue growth, burn rate, and risk score.
 * 💻 **C++ Minishell:** I implemented a custom shell in C++ with a strong focus on process management. This project allowed me to practically deepen my knowledge of access rights and Linux administration.
-* 🗄️ **Streaming Service Database:** This project involves implementing a database for a streaming service. I focus on modeling complex data structures with SAP PowerDesigner and writing automated deployment scripts using SQL.
 * 🌐 **Portfolio/Resume:** I implemented a small portfolio website that serves as my digital resume.
 
 ## What tools do you use?
@@ -21,4 +20,3 @@ I enjoy working with a versatile tech stack acquired through my studies and prac
 I am always open to exchanging ideas, exciting projects, and connecting with new people!
 * 📧 **Email:** [nikanmarandy@gmail.com](mailto:nikanmarandy@gmail.com)
 * 📍 **Location:** Darmstadt
-* 🏓 **Hobbies:** When I'm not programming, I enjoy playing the piano or playing table tennis!
