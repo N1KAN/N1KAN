@@ -18,5 +18,5 @@ I enjoy working with a versatile tech stack acquired through my studies and prac
 
 ## How to reach you?
 I am always open to exchanging ideas, exciting projects, and connecting with new people!
-* 📧 **Email:** [nikanmarandy@gmail.com](mailto:nikanmarandy@gmail.com)
+* 🔗 **LinkedIn:** [My Profile](https://www.linkedin.com/verify/identity/persona/start/?entryPoint=ABOUT_THIS_PROFILE&platform=DESKTOP&referrer=verify_hub)
 * 📍 **Location:** Darmstadt
