@@ -11,7 +11,6 @@ Currently, I am focusing on my Computer Science studies and applying my knowledg
 * 🌐 **Portfolio/Resume:** I implemented a small portfolio website that serves as my digital resume.
 
 ## What tools do you use?
-I enjoy working with a versatile tech stack acquired through my studies and practical experience:
 * **Programming & Web:** React, Next.js, HTML, CSS, PHP, C#, C, C++, JavaScript, Java, and Python.
 * **Databases & Data Modeling:** SQL, MySQL, PgAdmin, and SAP PowerDesigner.
 * **Operating Systems & Security:** Windows 10/11 and Linux (Ubuntu, Kali Linux).
