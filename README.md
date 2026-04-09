@@ -1,7 +1,7 @@
 # Hi there, I'm Nikan Seyed Marandy 👋
 
 ## Who are you?
-I am a Computer Science student (Bachelor of Science) currently in my fifth semester in Darmstadt. Alongside my studies, I have gained extensive practical experience, including roles as a working student in Financial Accounting and Group Risk Controlling at Helaba, as well as a Game Tester at Nintendo of Europe SE. I am characterized by my analytical thinking skills, high accuracy, and a highly independent working style.
+I am a computer science student (Bachelor of Science) and am currently in my sixth term in Darmstadt. Alongside my studies, I have gained practical experience, including as a working student in financial accounting and group risk management at Helaba, as well as a game tester at Nintendo of Europe SE. I am known for my analytical thinking, high level of precision, and ability to work independently.
 
 ## What are you currently working on?
 Currently, I am focusing on my Computer Science studies and applying my knowledge through personal projects. All my projects are available on GitHub:
