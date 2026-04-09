@@ -8,6 +8,7 @@ Currently, I am focusing on my Computer Science studies and applying my knowledg
 * 📈 **GrowthGaze:** I developed an investment simulation platform for start-ups. The dashboard displays company data from a JSON file and features interactive charts for KPIs such as revenue growth, burn rate, and risk score.
 * 💻 **C++ Minishell:** I implemented a custom shell in C++ with a strong focus on process management. This project allowed me to practically deepen my knowledge of access rights and Linux administration.
 * 🌐 **Portfolio/Resume:** I implemented a small portfolio website that serves as my digital resume.
+* 🍕 **Pizza Ordering System:** A web-based application (PHP, JS, CSS, HTML) featuring real-time status updates, comprehensive order tracking, and custom dashboards for customers, bakers, and drivers. [Live Demo](https://pizzariarose.infinityfree.me/Praktikum/%C3%BCbersicht.php?i=1)
 
 ## What tools do you use?
 I enjoy working with a versatile tech stack acquired through my studies and practical experience:
