@@ -4,17 +4,17 @@
 I am a computer science student (Bachelor of Science) and am currently in my sixth term in Darmstadt. Alongside my studies, I have gained practical experience, including as a working student in financial accounting and group risk management at Helaba, as well as a game tester at Nintendo of Europe SE. I am known for my analytical thinking, high level of precision, and ability to work independently.
 
 ## What are you currently working on?
-Currently, I am focusing on my Computer Science studies and applying my knowledge through personal projects. All my projects are available on GitHub:
-* 📈 **GrowthGaze:** I developed an investment simulation platform for start-ups. The dashboard displays company data from a JSON file and features interactive charts for KPIs such as revenue growth, burn rate, and risk score.
-* 💻 **C++ Minishell:** I implemented a custom shell in C++ with a strong focus on process management. This project allowed me to practically deepen my knowledge of access rights and Linux administration.
-* 🍕 **Pizza Ordering System:** A web-based application (PHP, JS, CSS, HTML) featuring real-time status updates, comprehensive order tracking, and custom dashboards for customers, bakers, and drivers. [Live Demo](https://pizzariarose.infinityfree.me/Praktikum/%C3%BCbersicht.php?i=1)
-* 🌐 **Portfolio/Resume:** I implemented a small portfolio website that serves as my digital resume.
+[cite_start]Currently, I am focusing on my Computer Science studies at h_da [cite: 2] and building automated systems that bridge the gap between AI and real-world workflows.
+
+* 🤖 **AI-Driven Automation Prototyping (n8n & Sora 2):** Developed a fully automated workflow that uses LLMs (Claude/Gemini) for content conceptualization and integrates video generation AI (Sora 2) via APIs to create digital content autonomously.
+* ⚙️ **Data Processing & Publishing Pipeline:** Built an automated system for YouTube and Google Workspace that handles file detection, downloading, and uploading. It uses custom JavaScript to clean data and ensure all metadata stays within strict API limits.
+* 📈 **GrowthGaze (Financial Data Dashboard):** Developed a platform for start-up investment simulation. [cite_start]It parses JSON data into interactive charts to visualize key financial metrics like revenue growth and risk scores[cite: 2].
 
 ## What tools do you use?
-* **Programming & Web:** React, Next.js, HTML, CSS, PHP, C#, C, C++, JavaScript, Java, and Python.
-* **Databases & Data Modeling:** SQL, MySQL, PgAdmin, and SAP PowerDesigner.
-* **Operating Systems & Security:** Windows 10/11 and Linux (Ubuntu, Kali Linux).
-* **IT & Process Tools:** Microsoft Office 365, SAP ERP/SAP GUI, tangro (for invoice verification), and Power BI.
+* [cite_start]**Automation & Scripting:** Microsoft Power Platform (Power Automate, Power Query), n8n, PowerShell (for automated data cleaning), Zapier, Make.
+* [cite_start]**AI & Programming:** Python (Pandas, Scikit-Learn), LLMs (Claude, Gemini), JavaScript, SQL, Java, C++, C#.
+* [cite_start]**Enterprise & Process Tools:** SAP S/4HANA (Project support), SAP ERP/GUI, Power BI, Microsoft Office 365.
+* [cite_start]**Databases & Systems:** MySQL, PgAdmin, SAP PowerDesigner, Linux (Ubuntu), Windows.
 
 ## How to reach you?
 I am always open to exchanging ideas, exciting projects, and connecting with new people!
